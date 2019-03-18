@@ -16,13 +16,15 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为中小企业�
 
 ## 基础技术
 
-- Python
+- Python3
 - AirFlow
-- Robotframe Work
+- Robot Framework
 - pytest
 - Selenium Webdriver
 - Appium
 - DataTest
-- Pandas and so on
+- numpy
+- Pandas
+- scikit-learn and so on
 
 其他开源测试技术框架、工具等等
