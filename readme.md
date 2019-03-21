@@ -22,6 +22,7 @@ AutoHub秉承“测试即代码”的理念，基于开源技术为中小企业�
 - pytest
 - Selenium Webdriver
 - Appium
+- Requests
 - DataTest
 - numpy
 - Pandas
